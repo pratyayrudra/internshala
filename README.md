@@ -33,8 +33,8 @@ password: abcd
 
 *Employer->*
 
-name: Johnny Pvt. Ltd.
+name: Jony Pvt. Ltd.
 
-email: jonny@abcd.com
+email: jony@abcd.com
 
 password: abcd
