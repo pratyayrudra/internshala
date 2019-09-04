@@ -7,4 +7,5 @@
         if($row>0){
             echo "exits";
         }
+    mysqli_close($conn);
 ?>

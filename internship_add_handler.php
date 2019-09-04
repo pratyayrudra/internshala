@@ -21,5 +21,6 @@
     }else{
         header('location: login');
     }
+    mysqli_close($conn);
 
 ?>
