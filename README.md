@@ -1,3 +1,11 @@
+What does this application do?
+
+This is similar to internshala portal but on a much smaller scale.
+An employer can register and post internship offers and then see the application received for all the internships posted.
+A student can register and see all the internships posted. Then he/she can apply to any internship. The student can also see if the applications is selected or rejected.
+
+Note: This application stores cookies in the clients browser. A very basic Caesar cipher has been used to encrypt the user id cookie for safety.
+
 **Purpose of each file:**
 
   
